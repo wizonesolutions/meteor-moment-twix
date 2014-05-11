@@ -10,7 +10,6 @@ Package.on_use(function(api, where) {
 	}
 	api.add_files('lib/twix/bin/twix.js', where);
 	api.add_files('lib/twix/bin/lang.js', where);
-	api.add_files('moment-twix.js', where);
 	if (api.export) {
 		api.export('Twix');
 	}
