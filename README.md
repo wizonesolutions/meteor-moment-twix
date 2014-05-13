@@ -1,4 +1,5 @@
-meteor-pkg-moment-twix
-======================
+meteor-moment-twix
+==================
 
-Twix.js is a Moment.js plugin for working with time ranges. Use it to manipulate, interrogate, and intelligently format a block of time.
+This is Twix.js, a Moment.js plugin for working with time ranges, repackaged for Meteor.
+Use it to manipulate, interrogate, and intelligently format a block of time.
