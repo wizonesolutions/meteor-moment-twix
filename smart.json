@@ -3,8 +3,8 @@
 	"description": "Twix.js is a Moment.js plugin for working with time ranges. Use it to manipulate, interrogate, and intelligently format a block of time.",
 	"homepage": "",
 	"author": "Luca Mussi <ing.luca.mussi@gmail.com> (https://github.com/splendido)",
-	"version": "0.4.0",
-	"git": "https://github.com/splendido/meteor-pkg-moment-twix.git",
+	"version": "0.0.1",
+	"git": "https://github.com/splendido/meteor-moment-twix.git",
 	"packages": {
 		"moment": {}
 	}
